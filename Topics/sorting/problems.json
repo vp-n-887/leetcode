@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-05T19:22:14.466Z",
+  "updatedAt": "2026-10-05T19:22:41.407Z",
   "problems": [
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0049-group-anagrams.cpp",
+          "path": "0049-group-anagrams/0049-group-anagrams.cpp",
+          "sha": "61181b091a32c58e892bedfe83506ffc1357e6f1",
+          "lastSyncedAt": "2026-10-05T19:22:41.407Z"
+        }
+      ]
+    },
     {
       "frontendId": "88",
       "title": "Merge Sorted Array",
