@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-05T19:23:16.371Z",
+  "updatedAt": "2026-10-05T19:23:23.396Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,6 +43,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.cpp",
           "sha": "61181b091a32c58e892bedfe83506ffc1357e6f1",
           "lastSyncedAt": "2026-10-05T19:22:41.407Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0053-maximum-subarray.cpp",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.cpp",
+          "sha": "8f1ae0be643473280f879dd9e67d798573e4db7c",
+          "lastSyncedAt": "2026-10-05T19:23:23.396Z"
         }
       ]
     },
