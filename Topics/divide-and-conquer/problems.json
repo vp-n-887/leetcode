@@ -4,8 +4,28 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-10-05T19:22:14.466Z",
+  "updatedAt": "2026-10-05T19:23:23.396Z",
   "problems": [
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0053-maximum-subarray.cpp",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.cpp",
+          "sha": "8f1ae0be643473280f879dd9e67d798573e4db7c",
+          "lastSyncedAt": "2026-10-05T19:23:23.396Z"
+        }
+      ]
+    },
     {
       "frontendId": "347",
       "title": "Top K Frequent Elements",
