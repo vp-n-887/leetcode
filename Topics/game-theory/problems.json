@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "game-theory",
+    "name": "Game Theory"
+  },
+  "updatedAt": "2026-10-05T19:33:44.633Z",
+  "problems": [
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "1510-stone-game-iv/",
+      "readmePath": "1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1510-stone-game-iv.cpp",
+          "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
+          "sha": "ebb468f8450caeaa6d6f1b1d6801a45f0b13eb6a",
+          "lastSyncedAt": "2026-10-05T19:33:44.633Z"
+        }
+      ]
+    }
+  ]
+}
