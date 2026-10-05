@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-05T19:21:23.687Z",
+  "updatedAt": "2026-10-05T19:21:39.476Z",
   "problems": [
     {
       "frontendId": "32",
@@ -42,7 +42,7 @@
           "filename": "0856-score-of-parentheses.cpp",
           "path": "0856-score-of-parentheses/0856-score-of-parentheses.cpp",
           "sha": "15c7f03944b7211bd5dda8d3e08fd748347b1155",
-          "lastSyncedAt": "2026-10-05T19:20:42.320Z"
+          "lastSyncedAt": "2026-10-05T19:21:39.476Z"
         }
       ]
     }
