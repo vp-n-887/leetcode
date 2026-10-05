@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-05T19:20:56.291Z",
+  "updatedAt": "2026-10-05T19:21:54.812Z",
   "problems": [
     {
       "frontendId": "88",
@@ -23,6 +23,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "2141c5471b4a89f1ea0c140ee520f162b6c9cb37",
           "lastSyncedAt": "2026-10-05T19:20:56.291Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0125-valid-palindrome.cpp",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.cpp",
+          "sha": "2b3abe9d4c23bf1d5a884602a194add8d8c37f35",
+          "lastSyncedAt": "2026-10-05T19:21:54.812Z"
         }
       ]
     }
