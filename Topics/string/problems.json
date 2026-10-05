@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-05T19:22:41.407Z",
+  "updatedAt": "2026-10-05T19:22:50.936Z",
   "problems": [
     {
       "frontendId": "32",
@@ -63,6 +63,26 @@
           "path": "0125-valid-palindrome/0125-valid-palindrome.cpp",
           "sha": "2b3abe9d4c23bf1d5a884602a194add8d8c37f35",
           "lastSyncedAt": "2026-10-05T19:21:54.812Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "2ab4dca68fa1f2a0d482504162d418cb8115eafb",
+          "lastSyncedAt": "2026-10-05T19:22:50.936Z"
         }
       ]
     },
