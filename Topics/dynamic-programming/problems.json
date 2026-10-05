@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-05T19:21:23.687Z",
+  "updatedAt": "2026-10-05T19:23:23.396Z",
   "problems": [
     {
       "frontendId": "32",
@@ -23,6 +23,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
           "sha": "50c86e8e4dfe79abff2ae09a292ae37f6c60e1b3",
           "lastSyncedAt": "2026-10-05T19:21:23.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0053-maximum-subarray.cpp",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.cpp",
+          "sha": "8f1ae0be643473280f879dd9e67d798573e4db7c",
+          "lastSyncedAt": "2026-10-05T19:23:23.396Z"
         }
       ]
     }
