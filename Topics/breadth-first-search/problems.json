@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-10-05T19:21:35.804Z",
+  "updatedAt": "2026-10-05T19:23:45.945Z",
   "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0100-same-tree.c",
+          "path": "0100-same-tree/0100-same-tree.c",
+          "sha": "66435a0a64e8e834900e9286da003784d50a3add",
+          "lastSyncedAt": "2026-10-05T19:23:45.945Z"
+        }
+      ]
+    },
     {
       "frontendId": "200",
       "title": "Number of Islands",
