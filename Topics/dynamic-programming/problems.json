@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-05T19:23:23.396Z",
+  "updatedAt": "2026-10-05T19:33:44.633Z",
   "problems": [
     {
       "frontendId": "32",
@@ -43,6 +43,26 @@
           "path": "0053-maximum-subarray/0053-maximum-subarray.cpp",
           "sha": "8f1ae0be643473280f879dd9e67d798573e4db7c",
           "lastSyncedAt": "2026-10-05T19:23:23.396Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "1510-stone-game-iv/",
+      "readmePath": "1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1510-stone-game-iv.cpp",
+          "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
+          "sha": "ebb468f8450caeaa6d6f1b1d6801a45f0b13eb6a",
+          "lastSyncedAt": "2026-10-05T19:33:44.633Z"
         }
       ]
     }
