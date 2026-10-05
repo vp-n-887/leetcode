@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-05T19:22:50.936Z",
+  "updatedAt": "2026-10-05T19:23:00.196Z",
   "problems": [
     {
       "frontendId": "49",
@@ -43,6 +43,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "2141c5471b4a89f1ea0c140ee520f162b6c9cb37",
           "lastSyncedAt": "2026-10-05T19:20:56.291Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0217-contains-duplicate.cpp",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.cpp",
+          "sha": "aca660d2f6540ab9eed8699b09a6fb3a95d560e9",
+          "lastSyncedAt": "2026-10-05T19:23:00.196Z"
         }
       ]
     },
