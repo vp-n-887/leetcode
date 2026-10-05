@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-05T19:22:03.045Z",
+  "updatedAt": "2026-10-05T19:22:14.466Z",
   "problems": [
     {
       "frontendId": "128",
@@ -23,6 +23,26 @@
           "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp",
           "sha": "8612b9a6adfba15c5ccbcc701175f53474490f7d",
           "lastSyncedAt": "2026-10-05T19:22:03.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0347-top-k-frequent-elements.cpp",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
+          "sha": "46f892e949a06dad29aee4070b2ef6ec59cee500",
+          "lastSyncedAt": "2026-10-05T19:22:14.466Z"
         }
       ]
     }
