@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-05T19:22:41.407Z",
+  "updatedAt": "2026-10-05T19:23:00.196Z",
   "problems": [
     {
       "frontendId": "49",
@@ -63,6 +63,26 @@
           "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp",
           "sha": "8612b9a6adfba15c5ccbcc701175f53474490f7d",
           "lastSyncedAt": "2026-10-05T19:22:03.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0217-contains-duplicate.cpp",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.cpp",
+          "sha": "aca660d2f6540ab9eed8699b09a6fb3a95d560e9",
+          "lastSyncedAt": "2026-10-05T19:23:00.196Z"
         }
       ]
     },
