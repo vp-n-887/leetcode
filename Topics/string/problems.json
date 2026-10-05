@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-05T19:21:54.812Z",
+  "updatedAt": "2026-10-05T19:22:41.407Z",
   "problems": [
     {
       "frontendId": "32",
@@ -23,6 +23,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
           "sha": "50c86e8e4dfe79abff2ae09a292ae37f6c60e1b3",
           "lastSyncedAt": "2026-10-05T19:21:23.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0049-group-anagrams.cpp",
+          "path": "0049-group-anagrams/0049-group-anagrams.cpp",
+          "sha": "61181b091a32c58e892bedfe83506ffc1357e6f1",
+          "lastSyncedAt": "2026-10-05T19:22:41.407Z"
         }
       ]
     },
