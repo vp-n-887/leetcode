@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-06T16:52:17.308Z",
+  "updatedAt": "2026-10-06T16:56:15.264Z",
   "problems": [
     {
       "frontendId": "49",
@@ -143,6 +143,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "sha": "aa9e47e885801224639978fa2fda478dd379a894",
           "lastSyncedAt": "2026-10-06T16:50:48.847Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3731-find-missing-elements.cpp",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.cpp",
+          "sha": "9a6fb7bc4fd011220cc07ff278bc6062be62cfb4",
+          "lastSyncedAt": "2026-10-06T16:56:15.264Z"
         }
       ]
     }
