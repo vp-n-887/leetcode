@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-06T16:55:43.343Z",
+  "updatedAt": "2026-10-06T16:56:56.880Z",
   "problems": [
     {
       "frontendId": "88",
@@ -143,6 +143,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "7f2a54dfcd5350723e14d65c023778b5d4e13101",
           "lastSyncedAt": "2026-10-06T16:54:27.144Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "0876-middle-of-the-linked-list/",
+      "readmePath": "0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0876-middle-of-the-linked-list.c",
+          "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.c",
+          "sha": "b8f44fd60b62c22c21b91a8fcaa6423e4761da68",
+          "lastSyncedAt": "2026-10-06T16:56:56.880Z"
         }
       ]
     },
