@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-10-05T19:24:01.520Z",
+  "updatedAt": "2026-10-06T16:47:11.493Z",
   "problems": [
     {
       "frontendId": "94",
@@ -43,6 +43,26 @@
           "path": "0100-same-tree/0100-same-tree.c",
           "sha": "66435a0a64e8e834900e9286da003784d50a3add",
           "lastSyncedAt": "2026-10-05T19:23:45.945Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0200-number-of-islands.cpp",
+          "path": "0200-number-of-islands/0200-number-of-islands.cpp",
+          "sha": "5be9bd897866b01d3c10a82259a4b7723675429c",
+          "lastSyncedAt": "2026-10-06T16:47:11.493Z"
         }
       ]
     }
