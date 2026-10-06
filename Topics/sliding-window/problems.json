@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-10-05T19:29:40.563Z",
+  "updatedAt": "2026-10-06T16:48:56.851Z",
   "problems": [
     {
       "frontendId": "2958",
@@ -42,7 +42,7 @@
           "filename": "3090-maximum-length-substring-with-two-occurrences.cpp",
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
           "sha": "31f0291b18142f4661727cdbfe6e5169bab52452",
-          "lastSyncedAt": "2026-10-05T19:23:32.690Z"
+          "lastSyncedAt": "2026-10-06T16:48:56.851Z"
         }
       ]
     }
