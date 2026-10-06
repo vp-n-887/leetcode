@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T16:48:19.380Z",
+  "updatedAt": "2026-10-06T16:48:24.691Z",
   "problems": [
     {
       "frontendId": "1",
@@ -82,7 +82,7 @@
           "filename": "0217-contains-duplicate.cpp",
           "path": "0217-contains-duplicate/0217-contains-duplicate.cpp",
           "sha": "aca660d2f6540ab9eed8699b09a6fb3a95d560e9",
-          "lastSyncedAt": "2026-10-05T19:23:00.196Z"
+          "lastSyncedAt": "2026-10-06T16:48:24.691Z"
         }
       ]
     },
