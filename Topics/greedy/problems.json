@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-10-06T16:53:03.125Z",
+  "updatedAt": "2026-10-06T16:53:18.715Z",
   "problems": [
     {
       "frontendId": "921",
@@ -43,6 +43,26 @@
           "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "sha": "997b5ab8325e03d45dfc50362298e38dffaef515",
           "lastSyncedAt": "2026-10-06T16:53:03.125Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3348-smallest-divisible-digit-product-ii.cpp",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
+          "sha": "07a67393954da9de979045c88988d9f45594a37f",
+          "lastSyncedAt": "2026-10-06T16:53:18.715Z"
         }
       ]
     }
