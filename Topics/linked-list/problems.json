@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-05T19:21:15.219Z",
+  "updatedAt": "2026-10-06T16:46:52.536Z",
   "problems": [
     {
       "frontendId": "92",
@@ -22,7 +22,7 @@
           "filename": "0092-reverse-linked-list-ii.c",
           "path": "0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.c",
           "sha": "4630c2bcfcd3d4de1f617c107870421e42d522cc",
-          "lastSyncedAt": "2026-10-05T19:21:09.383Z"
+          "lastSyncedAt": "2026-10-06T16:46:52.536Z"
         }
       ]
     },
