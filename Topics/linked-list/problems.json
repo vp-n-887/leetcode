@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-06T16:54:04.739Z",
+  "updatedAt": "2026-10-06T16:54:59.143Z",
   "problems": [
     {
       "frontendId": "21",
@@ -43,6 +43,26 @@
           "path": "0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.c",
           "sha": "4630c2bcfcd3d4de1f617c107870421e42d522cc",
           "lastSyncedAt": "2026-10-06T16:46:52.536Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0142-linked-list-cycle-ii.c",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.c",
+          "sha": "ddd07df515019155af9248b3ce986a0e9c7636d6",
+          "lastSyncedAt": "2026-10-06T16:54:59.143Z"
         }
       ]
     },
