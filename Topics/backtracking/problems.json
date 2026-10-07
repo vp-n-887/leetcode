@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-10-07T12:23:55.727Z",
+  "updatedAt": "2026-10-07T12:24:06.342Z",
   "problems": [
     {
       "frontendId": "301",
@@ -22,7 +22,7 @@
           "filename": "0301-remove-invalid-parentheses.cpp",
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
           "sha": "1c23cd500b47d0f6d4318bb102aff073d879e8dd",
-          "lastSyncedAt": "2026-10-07T12:23:55.727Z"
+          "lastSyncedAt": "2026-10-07T12:24:06.342Z"
         }
       ]
     },
