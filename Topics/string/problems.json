@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T16:53:18.715Z",
+  "updatedAt": "2026-10-07T12:23:55.727Z",
   "problems": [
     {
       "frontendId": "20",
@@ -103,6 +103,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "2ab4dca68fa1f2a0d482504162d418cb8115eafb",
           "lastSyncedAt": "2026-10-06T16:48:19.380Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "0301-remove-invalid-parentheses/",
+      "readmePath": "0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0301-remove-invalid-parentheses.cpp",
+          "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
+          "sha": "1c23cd500b47d0f6d4318bb102aff073d879e8dd",
+          "lastSyncedAt": "2026-10-07T12:23:55.727Z"
         }
       ]
     },
