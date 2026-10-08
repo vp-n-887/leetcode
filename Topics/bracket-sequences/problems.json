@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-08T12:32:57.823Z",
+  "updatedAt": "2026-10-08T12:33:15.459Z",
   "problems": [
     {
       "frontendId": "20",
@@ -103,7 +103,7 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "df8ab1a7fe02a769aa74f6b20da640d6933988fb",
-          "lastSyncedAt": "2026-10-08T12:32:57.823Z"
+          "lastSyncedAt": "2026-10-08T12:33:15.459Z"
         }
       ]
     }
