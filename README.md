@@ -6,17 +6,16 @@ problems tht are solved in leetcode
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 21 | 19 | 5 |
+| 46 | 21 | 20 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 13 days | 27 |
+| 4 days | 13 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-12 | 2 |
 | 2026-08-13 | 3 |
 | 2026-08-14 | 2 |
 | 2026-08-15 | 1 |
@@ -30,20 +29,21 @@ problems tht are solved in leetcode
 | 2026-10-06 | 2 |
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
+| 2026-10-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 40% |
-| String | 13 | 29% |
-| Hash Table | 12 | 27% |
+| Array | 18 | 39% |
+| String | 14 | 30% |
+| Hash Table | 12 | 26% |
 | Linked List | 10 | 22% |
 | Two Pointers | 10 | 22% |
-| Sorting | 8 | 18% |
-| Stack | 8 | 18% |
+| Stack | 9 | 20% |
+| Sorting | 8 | 17% |
+| Bracket Sequences | 6 | 13% |
 | Dynamic Programming | 6 | 13% |
-| Bracket Sequences | 5 | 11% |
 | Math | 5 | 11% |
 
 ## Topics
@@ -55,7 +55,7 @@ problems tht are solved in leetcode
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 5 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 4 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 1 |
@@ -68,7 +68,7 @@ problems tht are solved in leetcode
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 3 |
+| [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
@@ -88,8 +88,8 @@ problems tht are solved in leetcode
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 8 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 8 |
-| [String](Topics/string/) | 13 |
+| [Stack](Topics/stack/) | 9 |
+| [String](Topics/string/) | 14 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 2 |
