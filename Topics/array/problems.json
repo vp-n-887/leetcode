@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T18:39:46.958Z",
+  "updatedAt": "2026-10-10T18:40:05.309Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,7 +303,7 @@
           "filename": "2333-minimum-sum-of-squared-difference.cpp",
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
           "sha": "619382f56ade421a83c846591e7c21fe00b9be02",
-          "lastSyncedAt": "2026-10-10T18:39:46.958Z"
+          "lastSyncedAt": "2026-10-10T18:40:05.309Z"
         }
       ]
     },
