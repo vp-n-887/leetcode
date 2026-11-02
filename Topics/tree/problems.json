@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "tree",
-    "name": "Tree"
+    "name": "Tree",
+    "tagId": "20"
   },
-  "updatedAt": "2026-10-06T16:49:45.996Z",
+  "updatedAt": "2026-11-02T17:55:05.959Z",
   "problems": [
     {
       "frontendId": "94",
@@ -23,6 +24,26 @@
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.cpp",
           "sha": "e8975ea5d4876d80f5d98f59e1563c0ca77d6326",
           "lastSyncedAt": "2026-10-06T16:49:45.996Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "0098-validate-binary-search-tree/",
+      "readmePath": "0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0098-validate-binary-search-tree.cpp",
+          "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
+          "sha": "3cb4c418f7be8f25c3b145de05a04acc07e788b9",
+          "lastSyncedAt": "2026-11-02T17:55:05.959Z"
         }
       ]
     },
