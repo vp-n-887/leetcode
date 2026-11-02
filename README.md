@@ -6,7 +6,7 @@ problems tht are solved in leetcode
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 21 | 22 | 5 |
+| 49 | 21 | 23 | 5 |
 
 ## Activity
 
@@ -29,22 +29,22 @@ problems tht are solved in leetcode
 | 2026-10-08 | 1 |
 | 2026-10-09 | 1 |
 | 2026-10-11 | 1 |
-| 2026-11-02 | 1 |
+| 2026-11-02 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 42% |
+| Array | 20 | 41% |
 | String | 14 | 29% |
-| Hash Table | 12 | 25% |
-| Linked List | 10 | 21% |
-| Sorting | 10 | 21% |
-| Two Pointers | 10 | 21% |
-| Stack | 9 | 19% |
-| Bracket Sequences | 6 | 13% |
-| Dynamic Programming | 6 | 13% |
-| Math | 6 | 13% |
+| Hash Table | 12 | 24% |
+| Linked List | 10 | 20% |
+| Sorting | 10 | 20% |
+| Two Pointers | 10 | 20% |
+| Stack | 9 | 18% |
+| Bracket Sequences | 6 | 12% |
+| Dynamic Programming | 6 | 12% |
+| Math | 6 | 12% |
 
 ## Topics
 
@@ -53,14 +53,15 @@ problems tht are solved in leetcode
 | [Array](Topics/array/) | 20 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 2 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 4 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 4 |
+| [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
@@ -90,7 +91,7 @@ problems tht are solved in leetcode
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 14 |
-| [Tree](Topics/tree/) | 2 |
+| [Tree](Topics/tree/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 2 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 3 |
