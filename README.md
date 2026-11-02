@@ -6,18 +6,16 @@ problems tht are solved in leetcode
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 21 | 20 | 5 |
+| 48 | 21 | 22 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 13 days | 28 |
+| 1 days | 13 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-13 | 3 |
-| 2026-08-14 | 2 |
 | 2026-08-15 | 1 |
 | 2026-09-05 | 1 |
 | 2026-09-06 | 3 |
@@ -30,29 +28,31 @@ problems tht are solved in leetcode
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-10-09 | 1 |
+| 2026-10-11 | 1 |
+| 2026-11-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 39% |
-| String | 14 | 30% |
-| Hash Table | 12 | 26% |
-| Linked List | 10 | 22% |
-| Two Pointers | 10 | 22% |
-| Stack | 9 | 20% |
-| Sorting | 8 | 17% |
+| Array | 20 | 42% |
+| String | 14 | 29% |
+| Hash Table | 12 | 25% |
+| Linked List | 10 | 21% |
+| Sorting | 10 | 21% |
+| Two Pointers | 10 | 21% |
+| Stack | 9 | 19% |
 | Bracket Sequences | 6 | 13% |
 | Dynamic Programming | 6 | 13% |
-| Math | 5 | 11% |
+| Math | 6 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 20 |
 | [Backtracking](Topics/backtracking/) | 2 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
@@ -68,12 +68,12 @@ problems tht are solved in leetcode
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 4 |
+| [Greedy](Topics/greedy/) | 5 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 3 |
@@ -86,7 +86,7 @@ problems tht are solved in leetcode
 | [Recursion](Topics/recursion/) | 4 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 14 |
